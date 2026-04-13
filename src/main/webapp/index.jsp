@@ -24,7 +24,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit"> BYEEEEEEEE </button>
+        <button type="submit"> okay </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
